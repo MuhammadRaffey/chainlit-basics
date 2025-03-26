@@ -1,0 +1,7 @@
+[project]
+name = "chainlit-basics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["chainlit>=2.4.302", "mistralai>=1.6.0", "python-dotenv>=1.1.0"]
