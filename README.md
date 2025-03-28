@@ -71,6 +71,9 @@ When a user sends a message:
 2. The response is streamed back in real-time
 3. Each chunk of the response is displayed to the user as it arrives
 
+
+
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
