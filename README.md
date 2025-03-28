@@ -20,7 +20,7 @@ A real-time chat application built with Chainlit and Mistral AI, featuring strea
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MuhammadRaffey/chainlit-basics
 cd chainlit-basics
 ```
 
